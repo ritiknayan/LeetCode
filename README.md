@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ritiknayan/LeetCode/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/ritiknayan/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/ritiknayan/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
