@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ritiknayan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritiknayan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
