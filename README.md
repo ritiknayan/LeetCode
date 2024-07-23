@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -21,6 +22,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ritiknayan/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ritiknayan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [2032-largest-odd-number-in-string](https://github.com/ritiknayan/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
 |  |
@@ -93,6 +95,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
