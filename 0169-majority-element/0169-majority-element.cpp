@@ -12,6 +12,7 @@ public:
 
             if(i.second > n/2){
               ans = i.first;
+              break;
             }
         }
 
