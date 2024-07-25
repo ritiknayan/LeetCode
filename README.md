@@ -8,6 +8,7 @@
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ritiknayan/LeetCode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ritiknayan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ritiknayan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritiknayan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -77,6 +79,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
@@ -90,6 +93,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritiknayan/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -118,6 +122,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
