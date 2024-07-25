@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/ritiknayan/LeetCode/tree/master/0162-find-peak-element) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritiknayan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
