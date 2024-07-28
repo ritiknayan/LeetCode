@@ -29,6 +29,7 @@
 | [0007-reverse-integer](https://github.com/ritiknayan/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ritiknayan/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
 | [2032-largest-odd-number-in-string](https://github.com/ritiknayan/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## String
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
