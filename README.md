@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritiknayan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/ritiknayan/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
@@ -144,4 +145,12 @@
 | ------- |
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 | [2050-count-good-numbers](https://github.com/ritiknayan/LeetCode/tree/master/2050-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
