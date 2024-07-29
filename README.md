@@ -32,6 +32,7 @@
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
 | [2032-largest-odd-number-in-string](https://github.com/ritiknayan/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/ritiknayan/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
@@ -142,4 +143,5 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
+| [2050-count-good-numbers](https://github.com/ritiknayan/LeetCode/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
