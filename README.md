@@ -32,6 +32,7 @@
 | [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ritiknayan/LeetCode/tree/master/0231-power-of-two) |
 | [2032-largest-odd-number-in-string](https://github.com/ritiknayan/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ritiknayan/LeetCode/tree/master/2050-count-good-numbers) |
 ## String
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ritiknayan/LeetCode/tree/master/0231-power-of-two) |
 | [2050-count-good-numbers](https://github.com/ritiknayan/LeetCode/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
@@ -153,4 +155,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/ritiknayan/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
