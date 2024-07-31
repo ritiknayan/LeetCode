@@ -29,6 +29,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/ritiknayan/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ritiknayan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ritiknayan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ritiknayan/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
@@ -154,6 +155,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ritiknayan/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ritiknayan/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
