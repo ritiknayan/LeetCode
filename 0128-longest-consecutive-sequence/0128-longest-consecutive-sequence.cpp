@@ -1,33 +1,32 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        if (nums.empty()) return 0;
-        
-        
-        map<int, int> mpp;
-        for (int num : nums) {
-            mpp[num]++;
+
+        unordered_set<int> s;
+        for(auto it : nums){
+            s.insert(it);
         }
+        if(nums.size() == 0)  return 0;
 
-        int longestStreak = 0;
+        int longest = 1;
+        for(auto it: s){
 
-        for (auto it = mpp.begin(); it != mpp.end(); ++it) {
-            // Check if it's the start of a sequence
-            if (mpp.find(it->first - 1) == mpp.end()) {
-                int currentNum = it->first;
-                int currentStreak = 1;
+            if(s.find(it - 1) == s.end()){
 
-                // Check the length of the current sequence
-                while (mpp.find(currentNum + 1) != mpp.end()) {
-                    currentNum += 1;
-                    currentStreak += 1;
+                int x = it;
+                int count =1;
+
+                while(s.find(x+1) != s.end()){
+                    x= x+1;
+                    count = count +1;
                 }
+              longest= max(longest,count);
 
-                // Update the longest streak found
-                longestStreak = max(longestStreak, currentStreak);
             }
-        }
 
-        return longestStreak;
+
+
+        }
+        return longest;
     }
 };
