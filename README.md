@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/ritiknayan/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ritiknayan/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/ritiknayan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/ritiknayan/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ritiknayan/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/ritiknayan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritiknayan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ritiknayan/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
