@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ritiknayan/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/ritiknayan/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritiknayan/LeetCode/tree/master/0054-spiral-matrix) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritiknayan/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0031-next-permutation](https://github.com/ritiknayan/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ritiknayan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritiknayan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Greedy
