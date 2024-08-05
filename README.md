@@ -26,6 +26,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/ritiknayan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/ritiknayan/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ritiknayan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -56,6 +57,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ritiknayan/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ritiknayan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ritiknayan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/ritiknayan/LeetCode/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/ritiknayan/LeetCode/tree/master/1078-remove-outermost-parentheses) |
@@ -91,6 +93,7 @@
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ritiknayan/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/ritiknayan/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ritiknayan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ritiknayan/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
