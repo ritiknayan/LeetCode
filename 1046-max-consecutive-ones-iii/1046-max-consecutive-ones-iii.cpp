@@ -10,7 +10,7 @@ public:
          if(nums[right] == 0){
                zeroes++;
             }
-         while(zeroes > k){
+         if(zeroes > k){
         if(nums[left] == 0){
             zeroes--;
         }
