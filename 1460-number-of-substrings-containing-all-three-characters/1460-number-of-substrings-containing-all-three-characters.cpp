@@ -1,27 +1,16 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = size(s);
+        int count=0;
 
-        int i=0,j=0,count=0;
+        int lastseen[3]= {-1,-1,-1};
+        for(int i =0;i<s.length();i++){
+            lastseen[s[i] - 'a'] = i;
 
-        unordered_map<char, int> mp;
-
-        while(j<n)
-        {
-            mp[s[j]]++;
-
-            while(mp['a']>=1 && mp['b']>=1 && mp['c']>=1)
-            {
-                count += (n - j);
-
-                //shrinking the window
-                mp[s[i]]--;
-                i++;
+            if(lastseen[0] != -1 && lastseen[1] != -1 && lastseen[2] != -1){
+                count += 1 + min(min(lastseen[0], lastseen[1]), lastseen[2]);
             }
-            j++;
         }
-
         return count;
     }
 };
