@@ -15,7 +15,7 @@ public:
         ListNode* temp = head;
 
         while(temp != NULL){
-            if(m.count(temp) != 0) {
+            if(m.find(temp) != m.end()) {
                 return 1;
             }
 
