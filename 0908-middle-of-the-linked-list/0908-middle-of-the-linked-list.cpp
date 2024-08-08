@@ -16,24 +16,17 @@ public:
             return head;
         }
 
-        ListNode* temp = head;
-        int count  = 0;
-        while(temp != NULL){
-            count++;
-            temp = temp->next;
-        }
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        temp = head;
-       int mid = (count/2)+1;
+        while (fast != NULL && fast->next != NULL) {
+        // Move slow one step.
+        slow = slow->next; 
+         // Move fast two steps.
+        fast = fast->next->next; 
+    }
+    
 
-       while(temp != NULL){
-        mid = mid -1;
-        if(mid == 0){
-            break;
-        }
-        temp=temp->next;
-       }
-        
-       return temp; 
+        return slow;
     }
 };
