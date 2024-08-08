@@ -10,19 +10,39 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
 
-        unordered_map<ListNode* , int> m;
+        // unordered_map<ListNode* , int> m;
 
-        ListNode* temp = head;
+        // ListNode* temp = head;
 
-        while(temp != NULL){
-            if(m.find(temp) != m.end()) {
-                return 1;
-            }
+        // while(temp != NULL){
+        //     if(m.find(temp) != m.end()) {
+        //         return 1;
+        //     }
 
-            m[temp]++;
-            temp = temp->next;
+        //     m[temp]++;
+        //     temp = temp->next;
+        // }
+        // return 0;
+
+        if( head == NULL || head->next == NULL) return 0;
+        
+
+        ListNode* slow =head;
+        ListNode* fast =head;
+
+          while (fast != nullptr && fast->next != nullptr) {
+        // Move slow one step
+        slow = slow->next;
+        // Move fast two steps
+        fast = fast->next->next;
+
+        // Check if slow and fast pointers meet
+        if (slow == fast) {
+            return true;  // Loop detected
         }
-        return 0;
+    }
+
+         return 0;
         
     }
 };
