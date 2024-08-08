@@ -10,6 +10,20 @@
  */
 class Solution {
 public:
+    ListNode* recusiveReverse(ListNode* head){
+
+        if(head == NULL || head->next == NULL){
+            return head;
+        }
+       
+        ListNode* newHead =  recusiveReverse(head->next);
+        ListNode* front = head->next;
+        front->next = head;
+        head->next = NULL;
+
+        return newHead;
+
+    }
     ListNode* reverseList(ListNode* head) {
 
         // stack<int> s;
@@ -30,19 +44,22 @@ public:
         // }
         // return head;
 
-        ListNode* temp = head;
-        ListNode* prev = NULL;
+        // ListNode* temp = head;
+        // ListNode* prev = NULL;
        
 
-        while(temp != NULL){
-             ListNode* front = temp->next;
-             temp->next = prev;  
-             prev = temp;  
-             temp = front; 
-           } 
+        // while(temp != NULL){
+        //      ListNode* front = temp->next;
+        //      temp->next = prev;  
+        //      prev = temp;  
+        //      temp = front; 
+        //    } 
        
        
-        return prev;
+        // return prev;
+
+        ListNode* ans = recusiveReverse(head);
+        return ans;
         
     }
 };
