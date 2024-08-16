@@ -265,4 +265,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ritiknayan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritiknayan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ritiknayan/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
