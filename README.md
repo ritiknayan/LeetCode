@@ -29,6 +29,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ritiknayan/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ritiknayan/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2047-find-a-peak-element-ii](https://github.com/ritiknayan/LeetCode/tree/master/2047-find-a-peak-element-ii) |
+| [2227-sum-of-subarray-ranges](https://github.com/ritiknayan/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ritiknayan/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/ritiknayan/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/ritiknayan/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ritiknayan/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/ritiknayan/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -310,4 +312,5 @@
 | [0496-next-greater-element-i](https://github.com/ritiknayan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritiknayan/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ritiknayan/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/ritiknayan/LeetCode/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
