@@ -16,6 +16,7 @@
 | [0162-find-peak-element](https://github.com/ritiknayan/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/ritiknayan/LeetCode/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/ritiknayan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ritiknayan/LeetCode/tree/master/0503-next-greater-element-ii) |
@@ -156,12 +157,14 @@
 | ------- |
 | [0148-sort-list](https://github.com/ritiknayan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ritiknayan/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
@@ -213,6 +216,7 @@
 | [0053-maximum-subarray](https://github.com/ritiknayan/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ritiknayan/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritiknayan/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ritiknayan/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 ## Enumeration
@@ -335,4 +339,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritiknayan/LeetCode/tree/master/0146-lru-cache) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
