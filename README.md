@@ -24,6 +24,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/ritiknayan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ritiknayan/LeetCode/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/ritiknayan/LeetCode/tree/master/0735-asteroid-collision) |
+| [0876-hand-of-straights](https://github.com/ritiknayan/LeetCode/tree/master/0876-hand-of-straights) |
 | [0943-sum-of-subarray-minimums](https://github.com/ritiknayan/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ritiknayan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/ritiknayan/LeetCode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/ritiknayan/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ritiknayan/LeetCode/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/ritiknayan/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -149,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/ritiknayan/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ritiknayan/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ritiknayan/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ritiknayan/LeetCode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/ritiknayan/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ritiknayan/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ritiknayan/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -167,6 +170,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ritiknayan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ritiknayan/LeetCode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ritiknayan/LeetCode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
