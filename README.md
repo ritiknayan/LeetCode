@@ -179,6 +179,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ritiknayan/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ritiknayan/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/ritiknayan/LeetCode/tree/master/0621-task-scheduler) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -306,6 +307,7 @@
 | [0155-min-stack](https://github.com/ritiknayan/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ritiknayan/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ritiknayan/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/ritiknayan/LeetCode/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -360,6 +362,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/ritiknayan/LeetCode/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -370,4 +373,16 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritiknayan/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ritiknayan/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/ritiknayan/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
